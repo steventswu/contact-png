@@ -1,86 +1,14 @@
 {
-  "name": "BallAvatar",
+  "name": "Azuki",
   "icons": [
     {
-      "name": "a-bangqiu2.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/a-bangqiu2.png"
+      "name": "azuki5834.png",
+      "url": "https://raw2.seadn.io/base/0x6c7726dcbee2ba4aa240f880ac28dd3230b6cb76/9b6a6e9b8d336f65ad865f0be7ce46/5d9b6a6e9b8d336f65ad865f0be7ce46.png"
     },
     {
-      "name": "a-banqiu2.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/a-banqiu2.png"
+      "name": "azuki8552.png",
+      "url": "https://raw2.seadn.io/ethereum/0xed5af388653567af2f388e6224dc7c4b3241c544/8f4dc5be4572b030250ab6bf2b759ee1.png"
     },
-    {
-      "name": "a-gaoerfuqiu2.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/a-gaoerfuqiu2.png"
-    },
-    {
-      "name": "a-wangqiu2.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/a-wangqiu2.png"
-    },
-    {
-      "name": "bangqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/bangqiu.png"
-    },
-    {
-      "name": "banqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/banqiu.png"
-    },
-    {
-      "name": "baolingqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/baolingqiu.png"
-    },
-    {
-      "name": "baolingqiuping.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/baolingqiuping.png"
-    },
-    {
-      "name": "bingqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/bingqiu.png"
-    },
-    {
-      "name": "ganlanqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/ganlanqiu.png"
-    },
-    {
-      "name": "gaoerfuqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/gaoerfuqiu.png"
-    },
-    {
-      "name": "lanqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/lanqiu.png"
-    },
-    {
-      "name": "paiqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/paiqiu.png"
-    },
-    {
-      "name": "pikeqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/pikeqiu.png"
-    },
-    {
-      "name": "pingpangqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/pingpangqiu.png"
-    },
-    {
-      "name": "shatanqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/shatanqiu.png"
-    },
-    {
-      "name": "taiqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/taiqiu.png"
-    },
-    {
-      "name": "wangqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/wangqiu.png"
-    },
-    {
-      "name": "yumaoqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/yumaoqiu.png"
-    },
-    {
-      "name": "zuqiu.png",
-      "url": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/zuqiu.png"
-    }
   ],
   "description": "BallAvatar 是一组与球类相关的头像图标集"
 }
